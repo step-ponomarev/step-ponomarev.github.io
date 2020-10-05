@@ -30,8 +30,7 @@
     - SockJS
     - Quasar
     - Webpack
-    - Docker
-    
+    - Docker   
  ### Музыкальный бот для Discord ( Яндекс поменяли API - бот накрылся)
   - Где: [github](https://github.com/step-ponomarev/yaBot)
   - Описание: Бот, проигрывающий музыку с Яндекс Музыка.  
@@ -41,7 +40,6 @@
     - [JDA](https://github.com/DV8FromTheWorld/JDA)
     - JUnit
     - GitWorkflow
-    
  ### Простые тудушки
   - Деплой: [https://stepan-todo.herokuapp.com/](https://stepan-todo.herokuapp.com/) (Может быть в спящем состоянии, подождите)
   - Где: [github](https://github.com/step-ponomarev/yodaweb)
