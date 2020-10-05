@@ -4,55 +4,31 @@
  - github: [https://github.com/step-ponomarev](https://github.com/step-ponomarev)
     
 ## Место работы
-### Почта Mail.ru
-  - Роль: Младший разработчик
-  - С января 2019 года
+### Периодический "фриланс"
+  - Лаболаторные, курсовые работы
+  - Помощь знакомым
   - Стэк: 
-    - React
+    - Vue, Vuex...
     - Vanilla JS
-    - Redux
-    - Redux-saga 
-    - MobX 
-    - PostCSS
-    - TS/JS
-    - и многое другое
-    
-### Календарь, Задачи, Почта Mail.ru
-  - Роль: Фуллстек разработчик
-  - С января 2020 года
-  - Фронт Стэк: 
-    - React
-    - Redux
-    - Redux-observable
-    - RxJS 
-    - GraphQL
-    - и многое другое
-  - Бэк Стэк:
-    - GraphQL
-    - Golang
-    - Python
-    - Kuber
-    - и многое другое
+    - Java
+    - HTML5
+    - CSS3
 
 ## Мои проекты:
 
-### Задачи Mail.ru
-  - Роль: Главный фронтенд разработчик.
-  - Где: [https://todo.mail.ru/](https://todo.mail.ru/)
+### Первые тудушки
+  - Описание:Первый опыт в написании клиент-серверного приложения, первый опыт фронтенд разработки.
+  - Роль: Бекенд, фронтенд
+  - Деплой: [https://stepan-todo.herokuapp.com/](https://stepan-todo.herokuapp.com/) (Может быть в спящем состоянии, подождите)
+  - Где: [https://github.com/step-ponomarev/Yoda](https://github.com/step-ponomarev/Yoda)
   - Стэк и технологии:
-    - React
-    - Redux saga
-    - Redux offline
+    - Svelte
+    - Java
     - SPA
-    - Webpack
-    - Jest, Enzyme
-    - redux-offline
-    - css modules
-    - postcss
-    и т.д.
-
+    - Rollup
+    
 ### Шахматы
-  
+
   - Описание: Шахматы с искусственным интелектом и c 3 уровнями сложностей. С возможностью играть мультиплеер онлайн и офлайн. Реализованы mobile-first и offline-first подходом. 
   - Репозиторий: [https://github.com/frontend-park-mail-ru/2018_2_parashutnaya_molitva](https://github.com/frontend-park-mail-ru/2018_2_parashutnaya_molitva)
  
