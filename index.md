@@ -20,7 +20,7 @@
   - Описание: Первый опыт в написании клиент-серверного приложения, первый опыт фронтенд разработки.
   - Роль: Бекенд, фронтенд
   - Деплой: [https://stepan-todo.herokuapp.com/](https://stepan-todo.herokuapp.com/) (Может быть в спящем состоянии, подождите)
-  - Где: [github](https://github.com/step-ponomarev/Yoda)
+  - Где: [github](https://github.com/step-ponomarev/yodaweb)
   - Стэк и технологии:
     - Svelte
     - Java
