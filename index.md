@@ -16,23 +16,10 @@
     - CSS3
 
 ## Мои проекты:
-
-### Простые тудушки
-  - Описание: Первый опыт в написании клиент-серверного приложения, первый опыт фронтенд разработки.
-  - Роль: Бекенд, фронтенд
-  - Деплой: [https://stepan-todo.herokuapp.com/](https://stepan-todo.herokuapp.com/) (Может быть в спящем состоянии, подождите)
-  - Где: [github](https://github.com/step-ponomarev/yodaweb)
-  - Стэк и технологии:
-    - Svelte
-    - Java
-    - Spring Boot
-    - SPA
-    - Rollup
-    
 ### Аудио комната с чатом (В процессе)
-  - Описание: Аудиокомната с поддержкой n человек на основе WebRTC. Janus Server используется для создания аудиоконмат.
   - Бекенд: [github](https://github.com/step-ponomarev/audio-chat-backend)
   - Фронтенд: [github](https://github.com/step-ponomarev/-audio-chat-frontend)
+  - Описание: Аудиокомната с поддержкой n человек на основе WebRTC. Janus Server используется для создания аудиоконмат.
   - Роль: Бэкенд, фронтенд
   - Стэк:
     - Janus
@@ -42,6 +29,18 @@
     - SockJS
     - Quasar
     - Webpack
+    
+ ### Простые тудушки
+  - Деплой: [https://stepan-todo.herokuapp.com/](https://stepan-todo.herokuapp.com/) (Может быть в спящем состоянии, подождите)
+  - Где: [github](https://github.com/step-ponomarev/yodaweb)
+  - Описание: Первый опыт в написании клиент-серверного приложения, первый опыт фронтенд разработки.
+  - Роль: Бекенд, фронтенд  
+  - Стэк и технологии:
+    - Svelte
+    - Java
+    - Spring Boot
+    - SPA
+    - Rollup
     
 ## Образование
 ### Санкт-Петербургский политехнический университет Петра Великого
