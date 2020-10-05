@@ -51,6 +51,10 @@
   
 ### Технополис Mail.ru при Политехе
   - Статус: студент
+
+### Курсы:
+  - [Современный JS](https://www.udemy.com/course/modern-javascript-from-beginning/)
+  - [Продвинутая Java](https://www.udemy.com/course/javarussia/)
   
 ## Личные качества:
   - Жажда к знаниям
