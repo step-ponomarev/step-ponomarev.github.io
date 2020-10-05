@@ -11,6 +11,7 @@
     - Vue, Vuex...
     - Vanilla JS
     - Java
+    - Spring Boot
     - HTML5
     - CSS3
 
