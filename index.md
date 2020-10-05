@@ -30,6 +30,7 @@
     - SockJS
     - Quasar
     - Webpack
+    - Docker
     
  ### Музыкальный бот для Discord ( Яндекс поменяли API - бот накрылся)
   - Где: [github](https://github.com/step-ponomarev/yaBot)
