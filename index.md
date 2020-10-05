@@ -10,11 +10,12 @@
   - Стэк: 
     - Vue, Vuex...
     - Vanilla JS
+    - Webpack
+    - HTML5
+    - CSS
     - Java
     - Spring Boot
-    - HTML5
-    - CSS3
-
+    
 ## Мои проекты:
 ### Аудио комната с чатом (В процессе)
   - Бекенд: [github](https://github.com/step-ponomarev/audio-chat-backend)
