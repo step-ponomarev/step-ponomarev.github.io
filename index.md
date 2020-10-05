@@ -38,6 +38,8 @@
   - Стэк и технологии:
     - Java
     - [JDA](https://github.com/DV8FromTheWorld/JDA)
+    - JUnit
+    - GitWorkflow
     
  ### Простые тудушки
   - Деплой: [https://stepan-todo.herokuapp.com/](https://stepan-todo.herokuapp.com/) (Может быть в спящем состоянии, подождите)
