@@ -1,9 +1,7 @@
-# Тарасов Владислав Юрьевич
+# Пономарев Степан Павлович
 ## Контактная информация
- - Email: sinimawath@gmail.com
- - github: [https://github.com/SinimaWath](https://github.com/SinimaWath)
- - gitlab: [https://gitlab.com/sinimawath](https://gitlab.com/sinimawath)
- - linkedin: [https://cutt.ly/Bd0L54s](https://cutt.ly/Bd0L54s)
+ - email: step.ponomarev@gmail.com
+ - github: [https://github.com/step-ponomarev](https://github.com/step-ponomarev)
     
 ## Место работы
 ### Почта Mail.ru
