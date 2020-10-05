@@ -1,37 +1,123 @@
-## Welcome to GitHub Pages
+# Тарасов Владислав Юрьевич
+## Контактная информация
+ - Email: sinimawath@gmail.com
+ - github: [https://github.com/SinimaWath](https://github.com/SinimaWath)
+ - gitlab: [https://gitlab.com/sinimawath](https://gitlab.com/sinimawath)
+ - linkedin: [https://cutt.ly/Bd0L54s](https://cutt.ly/Bd0L54s)
+    
+## Место работы
+### Почта Mail.ru
+  - Роль: Младший разработчик
+  - С января 2019 года
+  - Стэк: 
+    - React
+    - Vanilla JS
+    - Redux
+    - Redux-saga 
+    - MobX 
+    - PostCSS
+    - TS/JS
+    - и многое другое
+    
+### Календарь, Задачи, Почта Mail.ru
+  - Роль: Фуллстек разработчик
+  - С января 2020 года
+  - Фронт Стэк: 
+    - React
+    - Redux
+    - Redux-observable
+    - RxJS 
+    - GraphQL
+    - и многое другое
+  - Бэк Стэк:
+    - GraphQL
+    - Golang
+    - Python
+    - Kuber
+    - и многое другое
 
-You can use the [editor on GitHub](https://github.com/step-ponomarev/step-ponomarev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Мои проекты:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Задачи Mail.ru
+  - Роль: Главный фронтенд разработчик.
+  - Где: [https://todo.mail.ru/](https://todo.mail.ru/)
+  - Стэк и технологии:
+    - React
+    - Redux saga
+    - Redux offline
+    - SPA
+    - Webpack
+    - Jest, Enzyme
+    - redux-offline
+    - css modules
+    - postcss
+    и т.д.
 
-### Markdown
+### Шахматы
+  
+  - Описание: Шахматы с искусственным интелектом и c 3 уровнями сложностей. С возможностью играть мультиплеер онлайн и офлайн. Реализованы mobile-first и offline-first подходом. 
+  - Репозиторий: [https://github.com/frontend-park-mail-ru/2018_2_parashutnaya_molitva](https://github.com/frontend-park-mail-ru/2018_2_parashutnaya_molitva)
+ 
+  - Роль: Фронтенд + реализация логики поиска/подбора/старта игровых комнат на Go
+  
+  - Стэк и технологии:
+    - Vanilla JS (MVC-архитектура)
+    - SPA
+    - Webpack
+    - Websocket
+    - http/2
+    - Service Worker
+    - Web Speech API
+    - PWA
+    - PostCSS
+    - less препроцессор
+    - fest шаблонизатор
+    
+### Bucket Api (Незаконченный)
+  - Описание: api для ios приложения.
+  - Где: [github](https://github.com/SinimaWath/BucketApi)
+  - Роль: Бэкенд
+  - Стэк:
+    - NodeJs
+    - Typescript
+    - InversifyJS
+    
+## Менторская деятельность
+ Ментор по фронтенду в Технопарке. Чем я занимаюсь как ментор?
+  - Организация взаимодествий в команде
+  - Организация ворк флоу
+  - Помощь в разработке архитектуры приложения
+  - Помощь в подготовке к выступлению
+  - Код-ревью
+    
+  Пример проекта, который я вел как ментор: 
+  - Сайт: [https://colors-game.ru/](https://colors-game.ru/)
+  - Репозиторий: [https://github.com/frontend-park-mail-ru/2019_1_OPG_plus_2](https://github.com/frontend-park-mail-ru/2019_1_OPG_plus_2)
+  
+  
+## Выступления
+### MoscowJS 48 — Как мы делали глубокий оффлайн
+  - [Youtube](https://www.youtube.com/watch?v=Sv-HJag1ri8&list=PL95OM-7UObpGiyAyygO8xBlvi7GKWHSku)
+  - Описание: Почему все обязаны закладываться на offline-first при проектировании. Какие есть проблемы и сложности с реализацией оффлайна. Про один из вариантов реализации CRUD в оффлайне. Немного про готовые инструменты.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Образование
+### МГТУ им. Н.Э. Баумана
+  - Факультет: ИУ
+  - Кафедра: ИУ5 (Системы обработки информации и управления)
+  - Статус: студент - бакалавр
+  - Курс: 4
+  
+### Технопарк Mail.ru при МГТУ им. Н.Э Баумана
+  - Направление: Системный архитектор
+  - Статус: закончил
+  
+## Личные качества:
+  - "Горящие глаза"
+  - Осознанность
+  - Последовательность
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/step-ponomarev/step-ponomarev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Хобби
+  - Оптизмизация бандлов :)
+  - Профилированние приложений
+  - Баскетбол
+  - Музыка
