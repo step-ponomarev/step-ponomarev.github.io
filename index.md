@@ -1,7 +1,8 @@
 # Пономарев Степан Павлович
 ## Контактная информация
  - email: step.ponomarev@gmail.com
- - github: [https://github.com/step-ponomarev](https://github.com/step-ponomarev)
+ - [https://github.com/step-ponomarev](github) 
+ - [https://t.me/ponomarevs](telegram) 
     
 ## Место работы
 ### Периодический "фриланс"
