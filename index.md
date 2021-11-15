@@ -1,6 +1,8 @@
 # Пономарев Степан Павлович
-Full Stack Software Engineer
-22 года
+**Full Stack Software Engineer**
+<br/>
+**22 года**
+<br/>
 
 ## Контактная информация
 [https://t.me/ponomarevs](https://t.me/ponomarevs)
