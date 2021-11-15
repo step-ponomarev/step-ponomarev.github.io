@@ -1,6 +1,6 @@
 # Пономарев Степан Павлович
 ## Контактная информация
- - telegram: [https://t.me/ponomarevs](https://t.me/ponomarevs)
+[https://t.me/ponomarevs](https://t.me/ponomarevs)
     
 ## Опыт работы
 ### Фриланс (6 месяцев)
