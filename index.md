@@ -1,13 +1,11 @@
 # Пономарев Степан Павлович
 ## Контактная информация
- - email: [step.ponomarev@gmail.com](step.ponomarev@gmail.com)
- - github: [https://github.com/step-ponomarev](https://github.com/step-ponomarev)
  - telegram: [https://t.me/ponomarevs](https://t.me/ponomarevs)
     
-## Место работы
-### Периодический "фриланс"
-  - Лаболаторные, курсовые работы
-  - Помощь знакомым
+## Опыт работы
+### Фриланс
+Помощь студентам за деньги.
+Разработка сайтов по знакомству.
   - Стэк: 
     - Vue, Vuex...
     - Vanilla JS
@@ -16,6 +14,8 @@
     - CSS
     - Java
     - Spring Boot
+
+### Одноклассники
     
 ## Мои проекты:
 ### Аудио комната с чатом (В процессе)
