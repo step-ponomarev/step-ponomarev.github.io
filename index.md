@@ -6,7 +6,7 @@
 
 ## Контактная информация
 [https://t.me/ponomarevs](https://t.me/ponomarevs)
-[https://www.linkedin.com/in/stepan-ponomarev-846502193](LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/stepan-ponomarev-846502193)
     
 ## Опыт работы
 ### Фриланс (6 месяцев)
