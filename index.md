@@ -34,17 +34,3 @@
   
 ### Технополис Mail.ru при Политехе
 https://polis.vk.company/
-
-## Курсы:
-### Hard Skills:
-  - [Современный JS](https://www.udemy.com/course/modern-javascript-from-beginning/)
-  - [Продвинутая Java](https://www.udemy.com/course/javarussia/)
-  
-### Soft Skills:
-  - [Красная Таблетка](https://intellect.academy//upload/Krasnaya_Tabletka.pdf)
-  
-## Книги:
-  - Чистый Код - Боб Мартин
-  - Чистая Архитекрута - Боб Мартин
-  - Код - Чарльз Петцольд
-  - Все книги Максима Дорофеева
