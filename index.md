@@ -7,27 +7,28 @@
     
 ## Опыт работы
 ### Фриланс (6 месяцев)
-Помощь студентам за деньги.
-Разработка сайтов по знакомству.
+Курсовые работы, лабораторные работы для студентов.
+В основном CRUD на спринге, Spring Security.
+
 Стэк: 
-    - Vue, Vuex...
-    - Vanilla JS
-    - Webpack
-    - HTML5
-    - CSS
-    - Java
-    - Spring Boot
+- Vue, Vuex...
+- JavaScript
+- Webpack
+- HTML5
+- CSS
+- Java
+- Spring Boot   
 
 ### Одноклассники (3 года)
 Разработка продуктовых фичей на высоконагруженном проекте. Поддержка инфраструктуры
-  - Стэк: 
-    - Java
-    - Stylus
-    - JavaScript
-    - React
-    - Spring Boot
-    - NoSQL
-    - Cassandra
+Стэк: 
+- Java
+- Stylus
+- JavaScript
+- React
+- Spring Boot
+- NoSQL
+- Cassandra
 
 ### Преподавание 
 [Курс по фронтенду, часть с JavaScript в рамках Технополиса](https://ok.ru/group/53245288710321/video/c10545073)
